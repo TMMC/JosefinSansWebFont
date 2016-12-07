@@ -4,7 +4,7 @@
   "description": "Josefin Sans v9 font designed by Santiago Orozco. Webfonts with complete latin & latin extended charsets.",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/TMMC/JosefinSansWebFont.git"
   },
   "keywords": [
     "josefin-sans-web-font",
@@ -14,9 +14,9 @@
   "author": "TMMC",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/TMMC/JosefinSansWebFont/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/TMMC/JosefinSansWebFont#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
